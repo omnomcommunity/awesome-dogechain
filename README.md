@@ -110,19 +110,22 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [RealDogePunks](https://realdogepunks.com/) - [[tg]](https://t.me/realdogepunks) The #1 NFT Community on DogeChain
 - [The Drugged Huskies](https://druggedhuskies.club) - [[tg]](https://t.me/TheDruggedHuskiesOfficial)
-- DogeTools NFT - [[tg]](https://t.me/DogeToolsDC)
+- [DogeTools NFT](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDC)
 - [CryptoR.AT](https://nightmares.cryptor.at/) - [[tg]](https://t.me/dogeratmischief) CryptoR.AT Nightmares edition
 - [DogeGang](https://dogegang.dog) - [[tg]](https://t.me/dogegangnft) A NFT collection on Dogechain, made up of 6,666 crazy gang doges
 - Dogechain Chimps - [[tg]](https://t.me/DogeChainChimps)
+- [Council Of Frogs](https://frogs.shadowkite.io/) - [[tg]](https://t.me/counciloffrogs) Council of frogs multichain NFT Collection
 
 ## Tools
 
 - [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
 - [Batch Transaction Tool](https://dive.dogechain.dog/batchTransactionTool) - Dogechain Batch Transaction Tool
 - [DefiLlama](https://defillama.com/chain/Dogechain) - DeFi TVL aggregator
-- [DEX Screener](https://dexscreener.com/dogechain) - Realtime Dogechain price charts and trading history
+- [DEX Screener](https://dexscreener.com/dogechain), [Dextools](https://www.dextools.io/app/en/dogechain), [Geckoterminal](https://www.geckoterminal.com/dogechain/pools) - Realtime Dogechain price charts and trading history
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
 - [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) Tip, Burn, & NFT bot
+- [FlokiFi](https://locker.flokifi.com/) - Securely lock your LP tokens, fungible tokens, NFTs, and multi tokens in a few clicks.
+- [Tin](https://tin.network/en/home), [Debank](https://debank.com/) - Easily track and visualize all your Dogechain assets, liabilities and NFTs in one simple interface.
 
 # Social Groups
 
