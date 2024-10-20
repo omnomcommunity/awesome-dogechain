@@ -52,6 +52,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Getting Started
 
 - [dogechain.dog](https://dogechain.dog/) - A general introduction to DogeChain.
+- [Documentation](https://docs.dogechain.dog/docs/overview) - official dogechain documentation
 
 # Whitepaper
 
@@ -116,27 +117,20 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Tools
 
-- [DefiLlama](https://defillama.com/chain/Dogechain) - DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
+- [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
+- [Batch Transaction Tool](https://dive.dogechain.dog/batchTransactionTool) - Dogechain Batch Transaction Tool
+- [DefiLlama](https://defillama.com/chain/Dogechain) - DeFi TVL aggregator
 - [DEX Screener](https://dexscreener.com/dogechain) - Realtime Dogechain price charts and trading history
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
-- [Doge Tools](https://www.dogechain.tools/) - [[tg]](https://t.me/DogeToolsDC) - DogeTools a unique suite of services bringing value to Dogechain
-
-## Faucets
-
-- [Testnet Faucet](https://faucet.dogechain.dog/) - Faucet for developers to get testnet wDOGE
+- [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) - Tip, Burn, & NFT bot
 
 # Social Groups
 
 ## Chatrooms
 
 - [t.me/DogeChainOfficial](https://t.me/DogeChainOfficial) - DogeChainOfficial chat
+- [Developer Telegram](https://t.me/+aESPdDhDiO83NGVk) - Dogechain DApp Devs
 
 ## Forums
 
 - [DogeChainFamily subreddit](https://www.reddit.com/r/DogeChainFamily/) - DogeChainFamily
-
-# Documentation
-
-## General
-
-- [DogeChain docs](https://docs.dogechain.dog/docs/overview) - many useful resources
