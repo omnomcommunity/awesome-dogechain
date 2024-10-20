@@ -65,14 +65,16 @@ Below is a copy of the official whitepaper:
 - [Archived copy](https://web.archive.org/web/20220731012549/https://dogechain.dog/DogechainWP.pdf) of the DogeChain whitepaper from DogeChain.dog.
 - [DogeChain whitepaper](https://dogechain.dog/DogechainWP.pdf).
 
-# Open-Source Wallets
+# Wallets
 
 Below are non-custodial wallets that work with DogeChain.
 
 - [MetaMask](https://metamask.io) - A crypto wallet & gateway to blockchain apps
 - [Coinbase Wallet](https://www.coinbase.com/wallet) - Your key to the world of crypto
+- [Rabby](https://rabby.io) - The game-changing wallet for EVM chains
+- [Bitget Wallet](https://web3.bitget.com/en/) - web3 trading wallet
   
-# Projects Built on DogeChain
+# DogeChain Ecosystem
 
 All of these apps are mostly stable and active. Always check the notes of a particular project before risking a large sum of value. Links are checked on a weekly basis, but function is not checked.
 
@@ -80,16 +82,21 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [bridge.dogechain.dog](https://dive.dogechain.dog/bridge) - Official DOGE Bridge, bridge DOGE to DogeChain.
 - [Router Nitro](https://app.routernitro.com/swap?toChain=2000) - Cross-chain bridge (USDT, USDC & WETH)
+- [Pawport Bridge](https://bridge.drc.dogechain.dog/) - Doginals (DRC20) Bridge
 
 ## Explorers
 
 - [explorer.dogechain.dog](https://explorer.dogechain.dog/) - DogeChain explorer based on BlockScout
 
+## DAO
+
+- [Dogegress](https://dogegress.dog/explore) - Voting for Dogechain
+
 ## DEXs
 
 - [omnomswap.dog](https://omnomswap.dog) - #1 DEX for routing DogeSwap
-- [quickswap.exchange](https://quickswap.exchange/#/swap) - Leading DEX on all Polygon Chains
-- frax
+- [quickswap.exchange](https://quickswap.exchange/#/swap) - [[tg]](https://t.me/QuickSwapDEX) Leading DEX on all Polygon Chains
+- fraxswap
 - [app.yodeswap.dog](https://app.yodeswap.dog/exchange/swap) - [[tg]](https://t.me/Yodeswap2) meme DEX on DogeChain
 - [dogeshrek.com](https://dogeshrek.com/#/swap) - [[tg]](https://t.me/dogeshrekchat) DEX built on Dogechain. 100% community based.
 
@@ -116,6 +123,14 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - Dogechain Chimps - [[tg]](https://t.me/DogeChainChimps)
 - [Council Of Frogs](https://frogs.shadowkite.io/) - [[tg]](https://t.me/counciloffrogs) Council of frogs multichain NFT Collection
 
+## AIs
+
+- DogexAI - [[tg]](https://t.me/dogexainet) xai powered by dogecoin
+
+## Stablecoin Protocols
+
+- [USDoge](https://usdoge.io/) - Hyper-collateralized Doge-backed Stablecoin
+
 ## Tools
 
 - [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
@@ -126,6 +141,14 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) Tip, Burn, & NFT bot
 - [FlokiFi](https://locker.flokifi.com/) - Securely lock your LP tokens, fungible tokens, NFTs, and multi tokens in a few clicks.
 - [Tin](https://tin.network/en/home), [Debank](https://debank.com/) - Easily track and visualize all your Dogechain assets, liabilities and NFTs in one simple interface.
+
+## Oracles
+
+- [Witnet](https://witnet.io/) [[doc]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
+
+## Uncategorized
+
+- [Unrektus](https://www.unrektus.fi/) - [[tg]](https://t.me/unrektus)
 
 # Social Groups
 
