@@ -131,6 +131,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [USDoge](https://usdoge.io/) - Hyper-collateralized Doge-backed Stablecoin
 
+## Applications
+
+- [Unrektus](https://www.unrektus.fi/) [[doc]](https://docs.unrektus.fi/unrektus) - [[tg]](https://t.me/unrektus) a place you can go & get unreked from a bad trade
+
 ## Tools
 
 - [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
@@ -146,10 +150,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [Witnet](https://witnet.io/) [[doc]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
 
-## Uncategorized
-
-- [Unrektus](https://www.unrektus.fi/) - [[tg]](https://t.me/unrektus)
-
 # Social Groups
 
 ## Chatrooms
@@ -160,3 +160,4 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Forums
 
 - [DogeChainFamily subreddit](https://www.reddit.com/r/DogeChainFamily/) - DogeChainFamily
+- [omnomtoken subreddit](http://reddit.com/r/omnomtoken) - OmnomToken
