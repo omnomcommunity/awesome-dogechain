@@ -109,6 +109,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OMNOM](https://omnomtoken.dog) - [[tg]](https://t.me/omnomtoken) the SHIB killer; the first meme token on its rightful home on Dogechain
 - [DINU](https://dogeinu.dog/) - [[tg]](https://t.me/dogeinuCOMMUNITY) A community owned and backed meme coin on DogeChain
 
+## Applications
+
+- [Proof of Stake](https://dive.dogechain.dog/pos/locker) - Staking
+- [Unrektus](https://www.unrektus.fi/) [[doc]](https://docs.unrektus.fi/unrektus) - [[tg]](https://t.me/unrektus) a place you can go & get unreked from a bad trade
+
 ## NFT Marketplaces
 
 - [Mantra](https://app.withmantra.com/market?chain_id=2000) - Mantra is an NFT Lending protocol and marketplace
@@ -131,10 +136,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [USDoge](https://usdoge.io/) - Hyper-collateralized Doge-backed Stablecoin
 
-## Applications
-
-- [Unrektus](https://www.unrektus.fi/) [[doc]](https://docs.unrektus.fi/unrektus) - [[tg]](https://t.me/unrektus) a place you can go & get unreked from a bad trade
-
 ## Tools
 
 - [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
@@ -149,6 +150,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Oracles
 
 - [Witnet](https://witnet.io/) [[doc]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
+- [Supra](https://supra.com/) [[doc]](https://docs.supra.com/oracles/data-feeds) - price feeds
 
 # Social Groups
 
