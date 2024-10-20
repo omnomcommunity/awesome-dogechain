@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div align="center">
-A curated list of DogeChain projects &amp; resources <br>
+A curated list of DogeChain ecosystem &amp; resources <br>
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
 </a>
@@ -99,11 +99,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Memes
 
 - [OMNOM](https://omnomtoken.dog) - [[tg]](https://t.me/omnomtoken) the SHIB killer; the first meme token on its rightful home on Dogechain
-- [DINU](https://dogeinu.dog/) - [[tg]](https://t.me/dogeinuCOMMUNITY) A community owned and backed meme coin on DogeChain.
+- [DINU](https://dogeinu.dog/) - [[tg]](https://t.me/dogeinuCOMMUNITY) A community owned and backed meme coin on DogeChain
 
 ## NFT Marketplaces
 
-- [Mantra](https://app.withmantra.com/market?chain_id=2000) - Mantra is an NFT Lending protocol and marketplace that strives to unlock liquidity accross every chain we operate in.
+- [Mantra](https://app.withmantra.com/market?chain_id=2000) - Mantra is an NFT Lending protocol and marketplace
 
 ## NFTs
 
@@ -111,6 +111,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - The Drugged Huskies - [[tg]](https://t.me/TheDruggedHuskiesOfficial)
 - DogeTools NFT - [[tg]](https://t.me/DogeToolsDC)
 - [CryptoR.AT](https://nightmares.cryptor.at/) - [[tg]](https://t.me/dogeratmischief)
+- DogeGang - [[tg]](https://t.me/dogegangnft)
+- Dogechain Chimps - [[tg]](https://t.me/DogeChainChimps)
 
 ## Tools
 
