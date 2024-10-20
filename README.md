@@ -109,10 +109,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## NFTs
 
 - [RealDogePunks](https://realdogepunks.com/) - [[tg]](https://t.me/realdogepunks) The #1 NFT Community on DogeChain
-- The Drugged Huskies - [[tg]](https://t.me/TheDruggedHuskiesOfficial)
+- [The Drugged Huskies](https://druggedhuskies.club) - [[tg]](https://t.me/TheDruggedHuskiesOfficial)
 - DogeTools NFT - [[tg]](https://t.me/DogeToolsDC)
-- [CryptoR.AT](https://nightmares.cryptor.at/) - [[tg]](https://t.me/dogeratmischief)
-- DogeGang - [[tg]](https://t.me/dogegangnft)
+- [CryptoR.AT](https://nightmares.cryptor.at/) - [[tg]](https://t.me/dogeratmischief) CryptoR.AT Nightmares edition
+- [DogeGang](https://dogegang.dog) - [[tg]](https://t.me/dogegangnft) A NFT collection on Dogechain, made up of 6,666 crazy gang doges
 - Dogechain Chimps - [[tg]](https://t.me/DogeChainChimps)
 
 ## Tools
@@ -122,7 +122,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [DefiLlama](https://defillama.com/chain/Dogechain) - DeFi TVL aggregator
 - [DEX Screener](https://dexscreener.com/dogechain) - Realtime Dogechain price charts and trading history
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
-- [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) - Tip, Burn, & NFT bot
+- [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) Tip, Burn, & NFT bot
 
 # Social Groups
 
