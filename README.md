@@ -44,6 +44,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Stablecoin Protocols](#stablecoin-protocols)
   - [Tools](#tools)
   - [Oracles](#oracles)
+- [Blogs, News, Media](#blogs-news-media)
 - [Social Groups](#social-groups)
   - [Chat Rooms](#chatrooms)
   - [Forums](#forums)
@@ -161,6 +162,14 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [Witnet](https://witnet.io/) [[docs]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
 - [Supra](https://supra.com/) [[docs]](https://docs.supra.com/oracles/data-feeds) - price feeds
+
+# Blogs, News, Media
+
+Dogechain focused media and content.
+
+- Dogechain Blogs - Available on [Official Dogechain Blog](https://blog.dogechain.dog/)
+- Dogechain Latest News - Available on [Telegram](https://t.me/DogechainAnnouncements)
+- Dogechain Roundtable Spaces -  Available on [X (ex-Twitter)](https://twitter.com/DogechainFamily)
 
 # Social Groups
 
