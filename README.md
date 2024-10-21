@@ -53,6 +53,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 - [dogechain.dog](https://dogechain.dog/) - A general introduction to DogeChain.
 - [Documentation](https://docs.dogechain.dog/docs/overview) - official dogechain documentation
+- [dogechain-lab](https://github.com/dogechain-lab) - official dogechain github
+- [Chainlist](https://chainlist.org/chain/2000) - connect to dogechain network
 
 # Whitepaper
 
@@ -75,7 +77,7 @@ Below are non-custodial wallets that work with DogeChain.
 - [Bitget Wallet](https://web3.bitget.com/en/)
 - [Pulse Wallet](https://thepulsewallet.org/)
 
-- [Safe](https://safe.dogechain.dog/welcome) - multisig
+- [Safe](https://safe.dogechain.dog/welcome) [[src]](https://github.com/dogechain-lab/safe-deployments)- multisig
   
 # DogeChain Ecosystem
 
@@ -89,7 +91,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Explorers
 
-- [explorer.dogechain.dog](https://explorer.dogechain.dog/) - DogeChain explorer based on BlockScout
+- [explorer.dogechain.dog](https://explorer.dogechain.dog/) [[src]](https://github.com/dogechain-lab/blockscout)- DogeChain explorer based on BlockScout
 
 ## DAO
 
