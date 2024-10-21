@@ -29,25 +29,24 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [Whitepaper](#whitepaper)
-- [Open-Source Wallets](#open-source-wallets)
-- [Projects Built on DogeChain](#projects-built-on-dogechain)
+- [Wallets](#wallets)
+- [DogeChain Ecosystem](#dogechain-ecosytem)
+  - [Bridges](#bridges)
   - [Explorers](#explorers)
+  - [DAO](#dao)
   - [DEXs](#dexs)
-  - [Yield Aggregators](#yield-aggregators)
   - [Aggregators](#aggregators)
+  - [Applications](#applications)
+  - [Memes](#memes)
   - [NFT Marketplaces](#nft-marketplaces)
   - [NFTs](#nfts)
-  - [Launchpads](#launchpads)
-  - [Apps (Social)](#apps-social)
-  - [Entertainment](#entertainment)
+  - [AIs](#ais)
+  - [Stablecoin Protocols](#stablecoin-protocols)
   - [Tools](#tools)
-  - [Faucets](#faucets)
+  - [Oracles](#oracles)
 - [Social Groups](#social-groups)
   - [Chat Rooms](#chatrooms)
   - [Forums](#forums)
-- [Documentation](#documentation)
-  - [Roadmaps](#roadmaps)
-  - [General](#general)
 
 # Getting Started
 
@@ -141,6 +140,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Stablecoin Protocols
 
 - [USDoge](https://usdoge.io/) - [[tg]](https://t.me/nova) Hyper-collateralized Doge-backed Stablecoin
+
+## Socials
+
+- [AirLyft.One](https://airlyft.one) - Discover communities, participate in engaging campaigns and get rewards
 
 ## Tools
 
