@@ -105,7 +105,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Aggregators
 
--
+- [swapr-fork-dogechain](https://swapr-fork-dogechain.netlify.app/#/swap?chainId=2000) [[src]](https://github.com/omnomcommunity/swapr-fork-dogechain) - complete fork of Swapr protocol added support for Dogechain & aggregates Dogeswap, Fraxswap, QuickswapV2 & Kibbleswap, made by OMNOM
 
 ## Applications
 
@@ -125,11 +125,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## NFTs
 
 - [RealDogePunks](https://realdogepunks.com/) - [[tg]](https://t.me/realdogepunks) The #1 NFT Community on DogeChain
-- [The Drugged Huskies](https://druggedhuskies.club) - [[tg]](https://t.me/TheDruggedHuskiesOfficial)
-- [DogeTools NFT](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDC)
+- [The Drugged Huskies](https://druggedhuskies.club) - [[tg]](https://t.me/TheDruggedHuskiesOfficial) The Drugged Huskies is a NFT collection with its own token on Dogechain
+- [DogeTools NFT](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDC) DOGE inspired NFT collection, decorated with different hats, glasses and tools. Featuring Pizza NFTs with prizes, rare Elon Musk and Marc Cuban motives.
 - [CryptoR.AT](https://nightmares.cryptor.at/) - [[tg]](https://t.me/dogeratmischief) CryptoR.AT Nightmares edition
 - [DogeGang](https://dogegang.dog) - [[tg]](https://t.me/dogegangnft) A NFT collection on Dogechain, made up of 6,666 crazy gang doges
-- Dogechain Chimps - [[tg]](https://t.me/DogeChainChimps)
+- [Dogechain Chimps](https://dogechainchimps.dog/) - [[tg]](https://t.me/DogeChainChimps) community driven NFT project with 3,666 unique Chimps
 - [Council Of Frogs](https://frogs.shadowkite.io/) - [[tg]](https://t.me/counciloffrogs) Council of frogs multichain NFT Collection
 
 ## AIs
@@ -154,6 +154,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
 - [DogeTools](https://www.dogetools.dog/) - [[tg]](https://t.me/DogeToolsDCPortal) Tip, Burn, & NFT bot
 - [FlokiFi](https://locker.flokifi.com/) - Securely lock your LP tokens, fungible tokens, NFTs, and multi tokens in a few clicks.
+- [OnlyMoons](https://v2.onlymoons.io/) [[src]](https://github.com/onlymoons-io/onlymoons) - open source LP & tokens locker
 - [Tin](https://tin.network/en/home), [Debank](https://debank.com/) - Easily track and visualize all your Dogechain assets, liabilities and NFTs in one simple interface.
 
 ## Oracles
