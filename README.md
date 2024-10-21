@@ -148,6 +148,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [Build-A-DOGE](https://dive.dogechain.dog/lessue) - Mint A DOG20 Token in 30 Sec
 - [Batch Transaction Tool](https://dive.dogechain.dog/batchTransactionTool) - Dogechain Batch Transaction Tool
+- [Mintpad](https://mintpad.co/) - no code NFT creation
 - [DefiLlama](https://defillama.com/chain/Dogechain) - DeFi TVL aggregator
 - [DEX Screener](https://dexscreener.com/dogechain), [Dextools](https://www.dextools.io/app/en/dogechain), [Geckoterminal](https://www.geckoterminal.com/dogechain/pools) - Realtime Dogechain price charts and trading history
 - [dafu.app](https://dafu.app/safety) - HoneyPot and Taxes Check
