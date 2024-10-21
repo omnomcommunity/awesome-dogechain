@@ -69,10 +69,13 @@ Below is a copy of the official whitepaper:
 
 Below are non-custodial wallets that work with DogeChain.
 
-- [MetaMask](https://metamask.io) - A crypto wallet & gateway to blockchain apps
-- [Coinbase Wallet](https://www.coinbase.com/wallet) - Your key to the world of crypto
-- [Rabby](https://rabby.io) - The game-changing wallet for EVM chains
-- [Bitget Wallet](https://web3.bitget.com/en/) - web3 trading wallet
+- [MetaMask](https://metamask.io)
+- [Coinbase Wallet](https://www.coinbase.com/wallet)
+- [Rabby](https://rabby.io)
+- [Bitget Wallet](https://web3.bitget.com/en/)
+- [Pulse Wallet](https://thepulsewallet.org/)
+
+- [Safe](https://safe.dogechain.dog/welcome) - multisig
   
 # DogeChain Ecosystem
 
@@ -104,15 +107,16 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 -
 
+## Applications
+
+- [Proof of Stake](https://dive.dogechain.dog/pos/locker) - Staking
+- [DcNS](https://app.dc.domains/) - Dogechain Name Service
+- [Unrektus](https://www.unrektus.fi/) [[docs]](https://docs.unrektus.fi/unrektus) - [[tg]](https://t.me/unrektus) a place you can go & get unreked from a bad trade
+
 ## Memes
 
 - [OMNOM](https://omnomtoken.dog) - [[tg]](https://t.me/omnomtoken) the SHIB killer; the first meme token on its rightful home on Dogechain
 - [DINU](https://dogeinu.dog/) - [[tg]](https://t.me/dogeinuCOMMUNITY) A community owned and backed meme coin on DogeChain
-
-## Applications
-
-- [Proof of Stake](https://dive.dogechain.dog/pos/locker) - Staking
-- [Unrektus](https://www.unrektus.fi/) [[doc]](https://docs.unrektus.fi/unrektus) - [[tg]](https://t.me/unrektus) a place you can go & get unreked from a bad trade
 
 ## NFT Marketplaces
 
@@ -134,7 +138,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Stablecoin Protocols
 
-- [USDoge](https://usdoge.io/) - Hyper-collateralized Doge-backed Stablecoin
+- [USDoge](https://usdoge.io/) - [[tg]](https://t.me/nova) Hyper-collateralized Doge-backed Stablecoin
 
 ## Tools
 
@@ -149,8 +153,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Oracles
 
-- [Witnet](https://witnet.io/) [[doc]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
-- [Supra](https://supra.com/) [[doc]](https://docs.supra.com/oracles/data-feeds) - price feeds
+- [Witnet](https://witnet.io/) [[docs]](https://docs.witnet.io/) - data feeds including prices, randomness, and HTTP GET & POST
+- [Supra](https://supra.com/) [[docs]](https://docs.supra.com/oracles/data-feeds) - price feeds
 
 # Social Groups
 
