@@ -30,7 +30,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Getting Started](#getting-started)
 - [Whitepaper](#whitepaper)
 - [Wallets](#wallets)
-- [DogeChain Ecosystem](#dogechain-ecosytem)
+- [DogeChain Ecosystem](#dogechain-ecosystem)
   - [Bridges](#bridges)
   - [Explorers](#explorers)
   - [DAO](#dao)
@@ -75,7 +75,6 @@ Below are non-custodial wallets that work with DogeChain.
 - [Rabby](https://rabby.io)
 - [Bitget Wallet](https://web3.bitget.com/en/)
 - [Pulse Wallet](https://thepulsewallet.org/)
-
 - [Safe](https://safe.dogechain.dog/welcome) [[src]](https://github.com/dogechain-lab/safe-deployments)- multisig
   
 # DogeChain Ecosystem
