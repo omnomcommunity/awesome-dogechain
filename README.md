@@ -74,6 +74,7 @@ Below are non-custodial wallets that work with DogeChain.
 - [MetaMask](https://metamask.io)
 - [Coinbase Wallet](https://www.coinbase.com/wallet)
 - [Rabby](https://rabby.io)
+- [TokenPocket](https://www.tokenpocket.pro/)
 - [Bitget Wallet](https://web3.bitget.com/en/)
 - [Pulse Wallet](https://thepulsewallet.org/)
 - [Safe](https://safe.dogechain.dog/welcome) [[src]](https://github.com/dogechain-lab/safe-deployments)- multisig
@@ -98,15 +99,20 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## DEXs
 
-- [omnomswap.dog](https://omnomswap.dog) - #1 DEX for routing DogeSwap
-- [quickswap.exchange](https://quickswap.exchange/#/swap) - [[tg]](https://t.me/QuickSwapDEX) Leading DEX on all Polygon Chains
-- fraxswap
-- [app.yodeswap.dog](https://app.yodeswap.dog/exchange/swap) - [[tg]](https://t.me/Yodeswap2) meme DEX on DogeChain
-- [dogeshrek.com](https://dogeshrek.com/#/swap) - [[tg]](https://t.me/dogeshrekchat) DEX built on Dogechain. 100% community based.
+- [OmnomSwap](https://omnomswap.dog) - #1 DEX for routing DogeSwap
+- [QuickSwap](https://quickswap.exchange/#/swap) - [[tg]](https://t.me/QuickSwapDEX) Leading DEX on all Polygon Chains
+- Fraxswap
+- [Yodeswap](https://app.yodeswap.dog/exchange/swap) - [[tg]](https://t.me/Yodeswap2) meme DEX on DogeChain
+- [Dogeshrek](https://dogeshrek.com/#/swap) - [[tg]](https://t.me/dogeshrekchat) DEX built on Dogechain. 100% community based.
 
 ## Aggregators
 
 - [swapr-fork-dogechain](https://swapr-fork-dogechain.netlify.app/#/swap?chainId=2000) [[src]](https://github.com/omnomcommunity/swapr-fork-dogechain) - complete fork of Swapr protocol added support for Dogechain & aggregates Dogeswap, Fraxswap, QuickswapV2 & Kibbleswap, made by OMNOM
+
+## Cross-chain
+
+- [SimpleSwap](https://simpleswap.io/coins/dc)
+- [LetsExchange](https://letsexchange.io/coin/dc)
 
 ## Applications
 
