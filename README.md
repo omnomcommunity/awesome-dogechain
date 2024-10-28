@@ -36,6 +36,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [DAO](#dao)
   - [DEXs](#dexs)
   - [Aggregators](#aggregators)
+  - [Cross-chains](#cross-chains)
   - [Applications](#applications)
   - [Memes](#memes)
   - [NFT Marketplaces](#nft-marketplaces)
@@ -109,7 +110,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [swapr-fork-dogechain](https://swapr-fork-dogechain.netlify.app/#/swap?chainId=2000) [[src]](https://github.com/omnomcommunity/swapr-fork-dogechain) - complete fork of Swapr protocol added support for Dogechain & aggregates Dogeswap, Fraxswap, QuickswapV2 & Kibbleswap, made by OMNOM
 
-## Cross-chain
+## Cross-chains
 
 - [SimpleSwap](https://simpleswap.io/coins/dc)
 - [LetsExchange](https://letsexchange.io/coin/dc)
