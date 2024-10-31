@@ -123,7 +123,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Memes
 
-- [OMNOM](https://omnomtoken.dog) - [[tg]](https://t.me/omnomtoken) the SHIB killer; the first meme token on its rightful home on Dogechain
+- [OMNOM](https://omnomtoken.dog) - [[tg]](https://t.me/omnomtoken_dc) the SHIB killer; the first meme token on its rightful home on Dogechain
 - [DINU](https://dogeinu.dog/) - [[tg]](https://t.me/dogeinuCOMMUNITY) A community owned and backed meme coin on DogeChain
 
 ## NFT Marketplaces
