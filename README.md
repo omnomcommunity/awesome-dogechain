@@ -112,6 +112,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Cross-chains
 
+- [RocketX](http://app.rocketx.exchange/swap/ETHEREUM.ethereum/DOGECHAIN.dogechain)
 - [SimpleSwap](https://simpleswap.io/coins/dc)
 - [LetsExchange](https://letsexchange.io/coin/dc)
 
