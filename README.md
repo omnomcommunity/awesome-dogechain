@@ -143,7 +143,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## AIs
 
-- DogexAI - [[tg]](https://t.me/dogexainet) xai powered by dogecoin
+- [Strong Doge](https://strongdoge.com/) - [[tg]](https://t.me/strongdoge) Strong Doge is Open-source Distributed DePin Agent Platform powered by Doge & xAI
 
 ## Stablecoin Protocols
 
