@@ -109,6 +109,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Aggregators
 
 - [swapr-fork-dogechain](https://swapr-fork-dogechain.netlify.app/#/swap?chainId=2000) [[src]](https://github.com/omnomcommunity/swapr-fork-dogechain) - complete fork of Swapr protocol added support for Dogechain & aggregates Dogeswap, Fraxswap, QuickswapV2 & Kibbleswap, made by OMNOM
+- [Chewy DEX Aggregator](https://app.chewyswap.dog/swap) - Trades across different exchanges and pairs. 
 
 ## Cross-chains
 
