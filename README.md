@@ -114,7 +114,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Cross-chains
 
 - [Swapza](https://swapza.io)
-- [DC Swap](https://dcswap.omnomtoken.dog/)
+- [DogePort Swap](https://dogeport.omnomtoken.dog/)
 - [RocketX](http://app.rocketx.exchange/swap/ETHEREUM.ethereum/DOGECHAIN.dogechain)
 - [SimpleSwap](https://simpleswap.io/coins/dc)
 - [LetsExchange](https://letsexchange.io/coin/dc)
